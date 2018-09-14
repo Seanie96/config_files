@@ -1,0 +1,38 @@
+{
+  "manifest": {
+    "name": "hyper-ayu",
+    "version": "1.0.4",
+    "description": "Hyper theme based on Ayu Theme for Sublime Text",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/licatajustin/hyper-ayu.git"
+    },
+    "keywords": [
+      "hyper",
+      "hyper-theme",
+      "colors",
+      "ayu"
+    ],
+    "author": {
+      "name": "Justin Licata"
+    },
+    "license": "MIT",
+    "dependencies": {},
+    "_registry": "npm",
+    "_loc": "/Users/neuro/.hyper_plugins/cache/v1/npm-hyper-ayu-1.0.4-3a264965f91b83a20f7a93c31e4cef4f0ff415d2/package.json",
+    "readmeFilename": "README.md",
+    "readme": "# Ayu (dark) for Hyper\n\nAyu for [Hyper](https://hyper.is/) is a simple theme with\nbright colors that come from the original\n[Ayu theme for Sublime Text](https://github.com/dempfi/ayu).\n\nA big thank you to that author, [dempfi](https://github.com/dempfi).\n\n---\n\n![Screenshot at start](https://raw.githubusercontent.com/licatajustin/hyper-ayu/master/images/start.png)\n![Screenshot with tabs](https://raw.githubusercontent.com/licatajustin/hyper-ayu/master/images/diff.png)\n\n### Installation\n\n1. Open Hyper's preferences with `Cmd + ,` (or manually at `~/.hyper.js`).\n2. Update your list of plugins to include `hyper-ayu`, like this:\n\n  ```javascript\n   plugins: [\n     'hyper-ayu'\n   ]\n   ```\n3. Fully reload Hyper (`Cmd + Shift + R`)\n4. Profit!\n\n### Related\n\n- [Hyper](https://hyper.is/)\n- [Ayu for Sublime Text](https://github.com/dempfi/ayu)\n- [Ayu for Vim](https://github.com/ayu-theme/ayu-vim)\n\n### License\n\nMIT @ [Justin Licata](https://twitter.com/justinlicata)\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-ayu/-/hyper-ayu-1.0.4.tgz#3a264965f91b83a20f7a93c31e4cef4f0ff415d2",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-ayu/-/hyper-ayu-1.0.4.tgz",
+    "hash": "3a264965f91b83a20f7a93c31e4cef4f0ff415d2",
+    "registry": "npm",
+    "packageName": "hyper-ayu"
+  },
+  "registry": "npm",
+  "hash": "3a264965f91b83a20f7a93c31e4cef4f0ff415d2"
+}
